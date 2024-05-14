@@ -3,7 +3,9 @@
 ### Olá! Eu sou o Gabriel Kayran 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielkayran/)
+<br/>
 
+[![wakatime](https://wakatime.com/badge/user/018beded-f231-4360-a5e4-12081bc6096d.svg)](https://wakatime.com/@018beded-f231-4360-a5e4-12081bc6096d)
 
 <div style="display: inline_block">
   <br/>
